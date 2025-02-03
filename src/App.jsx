@@ -1,5 +1,8 @@
 import ChatBot from "./components/ChatBot"
 
+import Hero from "./pages/Hero"
+
+
 
 function App() {
  
@@ -7,6 +10,7 @@ function App() {
   return (
     <>
       <ChatBot />
+      <Hero />
     </>
   )
 }

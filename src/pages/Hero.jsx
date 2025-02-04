@@ -114,7 +114,7 @@ export default function Home() {
             transition={{ duration: 0.8, type: "spring" }}
           >
             <Bot className="h-8 w-8 text-blue-500" />
-            <span className="text-xl font-bold">BotAI</span>
+            <span className="text-xl font-bold">PersonaAI</span>
           </motion.div>
           <motion.div
             initial={{ opacity: 0, x: 50 }}
